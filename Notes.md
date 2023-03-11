@@ -1,3 +1,7 @@
+STORAGE SERVICES
+
+
+
 Amazon EC2 Instance storage and Amazon Elastic Block storage
 
 
@@ -11,6 +15,13 @@ If an accident happens and the instance goes down, you still have your data on y
 
 
 For backup of the data, snapshots are used.
+
+
+
+
+DATABASES
+
+![image](https://user-images.githubusercontent.com/77662117/224470373-e268bf14-84e9-4ff1-b3b3-0cb147b9f286.png)
 
 
 
