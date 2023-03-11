@@ -28,6 +28,7 @@ MONITORING
 The act of collecting, analyzing, and using data to make decisions or answer questions about your IT resources and systems is called monitoring.
 
 Amazon CloudWatch
+
 Amazon CloudWatch is a monitoring and observability service that collects data. CloudWatch provides actionable insights into your applications, and enables you to respond to system-wide performance changes, optimize resource utilization, and get a unified view of operational health. This unified view is important. 
 
 You can use CloudWatch to:
