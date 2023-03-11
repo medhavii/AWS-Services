@@ -24,6 +24,7 @@ DATABASES
 ![image](https://user-images.githubusercontent.com/77662117/224470373-e268bf14-84e9-4ff1-b3b3-0cb147b9f286.png)
 
 MONITORING
+
 The act of collecting, analyzing, and using data to make decisions or answer questions about your IT resources and systems is called monitoring.
 
 Amazon CloudWatch
